@@ -131,8 +131,4 @@
     .header .container .row .col-xl-4 .green, .header .container .row .col-xl-4 .tel {
       text-align: left; }
   .header h1 {
-    padding-top: 90px; } }
-
-@media (max-width: 500px) {
-  .header h1 {
-    font-size: 48px; } }
+    padding-top: 80px; } }
